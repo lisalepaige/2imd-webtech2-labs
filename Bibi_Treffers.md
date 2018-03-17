@@ -27,3 +27,10 @@ __CSS Grid Kweeni-page:__ https://codepen.io/Bix2/pen/GQXVLQ
 __Repository GitHub:__ https://github.com/Bix2/Lab3
 
 __Codepen:__ https://codepen.io/Bix2/pen/ddajEK
+
+
+### Week 4 - NodeJS Kweeni App
+
+__Repository GitHub:__ https://github.com/Bix2/Lab4
+
+__Heroku Kweeni App route /kweeni:__ https://kweeni-weareimd.herokuapp.com/kweeni
