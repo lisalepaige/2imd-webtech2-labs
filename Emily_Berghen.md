@@ -19,3 +19,8 @@
 
 [Link to Codepen.io](https://codepen.io/emilyberghen/pen/QQeeoY)
 [Link to Github repository](https://github.com/emilyberghen/portfolio/tree/master/notesapp)
+
+### ✨ WEEK 4 - 
+
+[Link to Heroku](https://kwee-ni.herokuapp.com/kweeni)
+[Link to Github repository](https://github.com/emilyberghen/kwee-ni)
