@@ -1,18 +1,35 @@
-# Webtech3Labo
-Groep 3 Labo
-Week 1 - GIT
-Screenshot proof of work GIT-IT
-![GIT-IT proof of work](https://s10.postimg.org/4w5ccwyqx/Gitit_Week1.png)
+# Kian Groenen - Webtech 2 progress
 
-Week 2 - CSS Flexbox + CSS Grid
-KWEENI
-https://codepen.io/KianGroenen/pen/MQXXRQ
+### Week 1 - Git
 
-Screenshot proof of work FroggyFlexbox
-![FroggyFlexbox proof of work](https://s10.postimg.org/5yfivg9uh/Flexbox_Froggy_Week2.png)
+Kweeni Project link -> [link to repository](https://github.com/KianGroenen/Webtech3Labo/tree/master/Week1)
 
-Screenshot proof of work GridGarden
-![GridGarden proof of work](https://s10.postimg.org/bmltmd921/Grid_Garden_Week2.png)
+Git-It link -> [link to screenshot](https://s10.postimg.org/4w5ccwyqx/Gitit_Week1.png)
 
-Week 3 - ES6
-https://codepen.io/KianGroenen/pen/KoPYrr
+![alt text](https://s10.postimg.org/4w5ccwyqx/Gitit_Week1.png "Git-It")
+
+
+### Week 2 - Flexbox & CSS Grid
+
+Flexbox Froggy link -> [link to screenshot](https://s10.postimg.org/5yfivg9uh/Flexbox_Froggy_Week2.png)
+
+![alt text](https://s10.postimg.org/5yfivg9uh/Flexbox_Froggy_Week2.png "Flexbox Froggy")
+
+Grid Garden link -> [link to screenshot](https://s10.postimg.org/bmltmd921/Grid_Garden_Week2.png)
+
+![alt text](https://s10.postimg.org/bmltmd921/Grid_Garden_Week2.png "Grid Garden")
+
+Kweeni Homepage link -> [link to codepen](https://codepen.io/KianGroenen/pen/MQXXRQ) 
+
+
+### Week 3 - ES6
+
+GitHub Notes App link -> [link to repository](https://github.com/KianGroenen/Webtech3Labo/tree/master/Week3)
+
+Notes App -> [link to codepen](https://codepen.io/KianGroenen/pen/KoPYrr)
+
+### Week 4 - Node.js & Express
+
+GitHub Kweeni Homepage Express App link -> [link to repository]()
+
+Kweeni homepage Express App -> [link to Heroku]()
