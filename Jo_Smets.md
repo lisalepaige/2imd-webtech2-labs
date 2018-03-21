@@ -28,3 +28,9 @@
 **Notes app** → https://codepen.io/smtsj/pen/WMWdrq
 
 **Notes app on Github** → https://github.com/smtsj/Webtech2-portfolio/tree/master/Week%203/notesapp
+
+## Week 4/5 - Node JS Kweeni ##
+
+**Link to Heroku** → https://kweeni-josmets.herokuapp.com/
+
+**Link to Github** → https://github.com/smtsj/Webtech2-portfolio/tree/master/Week%204%265/kweeni_node
