@@ -18,3 +18,8 @@
 ### Todo app
 [Link to Todo app codepen](https://codepen.io/RafaelFernandez/pen/mXZPgy)
 [Link to Todo app GitHub](https://github.com/RafaelDesignBE/Webtech3/tree/master/Todo%20App)
+
+## Week 4: NodeJS Basics
+### Kweeni NodeJS Express
+[Link to Kweeni Express Heroku](https://kweeni-project.herokuapp.com/kweeni)
+[Link to Kweeni Express GitHub](https://github.com/RafaelDesignBE/Webtech3/tree/master/NodeJS_Kweeni)
