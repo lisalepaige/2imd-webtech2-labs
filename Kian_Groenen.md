@@ -27,9 +27,3 @@ Kweeni Homepage link -> [link to codepen](https://codepen.io/KianGroenen/pen/MQX
 GitHub Notes App link -> [link to repository](https://github.com/KianGroenen/Webtech3Labo/tree/master/Week3)
 
 Notes App -> [link to codepen](https://codepen.io/KianGroenen/pen/KoPYrr)
-
-### Week 4 - Node.js & Express
-
-GitHub Kweeni Homepage Express App link -> [link to repository]()
-
-Kweeni homepage Express App -> [link to Heroku]()
