@@ -29,3 +29,10 @@ repository link: https://github.com/roelifant/Webtech3-repository
 
 Heroku link: https://gentle-springs-41167.herokuapp.com/kweeni/hier-je-titel
 repository link: https://github.com/roelifant/Webtech3-Lab4
+
+
+
+# Week 6 - Web Sockets
+
+Heroku link: https://webtech3-lab5.herokuapp.com/
+repository link: https://github.com/roelifant/Webtech3-Lab5
