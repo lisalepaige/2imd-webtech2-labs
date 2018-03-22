@@ -31,4 +31,4 @@ Notes App -> [link to codepen](https://codepen.io/KianGroenen/pen/KoPYrr)
 
 Link Github Repo -> [link to repository](https://github.com/KianGroenen/Webtech3Labo/tree/master/Week5/sockets)
 
-Link Heroku! -> [link to Heroku](https://websocketsquestions.herokuapp.com/)
+Link Heroku -> [link to Heroku](https://websocketsquestions.herokuapp.com/)
