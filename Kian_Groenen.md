@@ -19,7 +19,6 @@ Grid Garden link -> [link to screenshot](https://s10.postimg.org/bmltmd921/Grid_
 
 ![alt text](https://s10.postimg.org/bmltmd921/Grid_Garden_Week2.png "Grid Garden")
 
-Kweeni Homepage link -> [link to codepen](https://codepen.io/KianGroenen/pen/MQXXRQ) 
 
 
 ### Week 3 - ES6
