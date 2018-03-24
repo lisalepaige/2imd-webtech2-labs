@@ -32,6 +32,11 @@ link project github: https://github.com/CarolineVG/ToDoApp
 
 
 # Week 4 - NodeJS
-link project github: https://github.com/CarolineVG/webtech_team1 
 
-link project Heroku: https://kweeni-webtechteam1.herokuapp.com/ (werkt niet)
+link project github (groepswerk): https://github.com/CarolineVG/webtech_team1 
+
+link project Heroku (groepswerk): https://kweeni-webtechteam1.herokuapp.com/ 
+
+link project github (alleen): https://github.com/CarolineVG/kweeni
+
+link project Heroku (alleen): https://kweeni-carolinevg.herokuapp.com/kweeni 
