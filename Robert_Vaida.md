@@ -1,6 +1,6 @@
 # Robert Vaida - Webtech 2 progress
 
-### Week 1 - Git
+### Lab 1 - Git
 
 Kweeni Project link -> [link to repository](https://github.com/RafaelDesignBE/project_kweeni)
 
@@ -9,7 +9,7 @@ Git-It link -> [link to screenshot](https://imgur.com/0kjwCLU)
 ![alt text](https://i.imgur.com/0kjwCLU.png "Git-It")
 
 
-### Week 2 - Flexbox & CSS Grid
+### Lab 2 - Flexbox & CSS Grid
 
 Flexbox Froggy link -> [link to screenshot](https://imgur.com/a/5H7PG)
 
@@ -22,14 +22,22 @@ Grid Garden link -> [link to screenshot](https://imgur.com/a/5H7PG)
 Kweeni Homepage link -> [link to codepen](https://codepen.io/robitica/pen/KQeZVL) 
 
 
-### Week 3 - ES6
+### Lab 3 - ES6
 
 GitHub Notes App link -> [link to repository](https://github.com/robitica/private-webtech3/tree/master/notes-app)
 
 Notes App -> [link to codepen](https://codepen.io/robitica/pen/jZdewx)
 
-### Week 4 - Node.js & Express
+### Lab 4 - Node.js & Express
 
 GitHub Kweeni Homepage Express App link -> [link to repository](https://github.com/robitica/private-webtech3/tree/master/kweeni-express)
 
 Kweeni homepage Express App -> [link to Heroku](https://kweeni.herokuapp.com)
+
+### Lab 5 - Web Sockets
+
+GitHub Websockers App link -> [link to repository](https://github.com/robitica/galaxy-websockets)
+
+Websockets App Create Poll -> [link to Heroku](https://websockets-galaxy.herokuapp.com/createpoll)
+
+Websockets App Poll Result -> [link to Heroku](https://websockets-galaxy.herokuapp.com)
