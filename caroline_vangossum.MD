@@ -1,12 +1,23 @@
-# Week 1 - HTML 
-<p>link project: https://github.com/CarolineVG/git_to_work</p>
 
-<p>Git it: </p>
+<!-- TOC -->
+
+- [Week 1 - HTML](#week-1---html)
+- [Week 2 - Flexbox en Grid](#week-2---flexbox-en-grid)
+- [Week 3 - ES6](#week-3---es6)
+- [Week 4 - NodeJS](#week-4---nodejs)
+
+<!-- /TOC -->
+
+# Week 1 - HTML
+link project: https://github.com/CarolineVG/git_to_work
+
+Git it:
 ![alt text](https://preview.ibb.co/dkNaTS/git_it.png)
 
 # Week 2 - Flexbox en Grid 
-<p>link project codepen: https://codepen.io/CarolineVG/project/editor/AyLLdM</p>
-<p>link project github: https://github.com/CarolineVG/webtech_team1</p>
+link project codepen: https://codepen.io/CarolineVG/project/editor/AyLLdM
+
+link project github: https://github.com/CarolineVG/webtech_team1
 
 Flexbox: 
 ![alt text](https://preview.ibb.co/f6nW2n/flexbox.png)
@@ -15,5 +26,17 @@ Grid:
 ![alt text](https://preview.ibb.co/cHtFTS/grid.png)
 
 # Week 3 - ES6
-<p>link project codepen: https://codepen.io/CarolineVG/pen/EQzooZ</p>
-<p>link project github: https://github.com/CarolineVG/ToDoApp</p>
+link project codepen: https://codepen.io/CarolineVG/pen/EQzooZ
+
+link project github: https://github.com/CarolineVG/ToDoApp
+
+
+# Week 4 - NodeJS
+
+link project github (groepswerk): https://github.com/CarolineVG/webtech_team1 
+
+link project Heroku (groepswerk): https://kweeni-webtechteam1.herokuapp.com/ 
+
+link project github (alleen): https://github.com/CarolineVG/kweeni
+
+link project Heroku (alleen): https://kweeni-carolinevg.herokuapp.com/kweeni 
