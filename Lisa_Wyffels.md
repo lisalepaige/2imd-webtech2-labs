@@ -22,4 +22,15 @@ https://codepen.io/CarolineVG/project/editor/AyLLdM
 
 <h2>Week 3</h2>
 
-https://codepen.io/Dinobyte/pen/yvWEWv
+https://codepen.io/Dinobyte/pen/yvWEWv <br>
+https://github.com/LisaWijffels/ToDoApp
+
+<h2>Week 4: Node JS</h2>
+
+https://kweenigroep1.herokuapp.com/ <br>
+https://github.com/CarolineVG/webtech_team1
+
+<h2>Week 5: Web Sockets</h2>
+
+https://lisawijffels-socketspoll.herokuapp.com/createpoll <br>
+https://github.com/LisaWijffels/socketspoll
